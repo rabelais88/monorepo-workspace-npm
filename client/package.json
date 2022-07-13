@@ -6,5 +6,8 @@
   "type": "module",
   "scripts": {
     "start": "node index"
+  },
+  "dependencies": {
+    "@my-project/shared": "1.0.0"
   }
 }

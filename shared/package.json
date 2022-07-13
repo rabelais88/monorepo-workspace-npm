@@ -3,5 +3,8 @@
   "version": "1.0.0",
   "module": "index.js",
   "private": false,
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "@my-project/shared": "1.0.0"
+  }
 }
