@@ -1,0 +1,7 @@
+{
+  "name": "@my-project/shared",
+  "version": "1.0.0",
+  "module": "index.js",
+  "private": false,
+  "type": "module"
+}
